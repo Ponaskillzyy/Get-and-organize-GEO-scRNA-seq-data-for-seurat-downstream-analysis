@@ -1,7 +1,7 @@
 # Get-and-organize-GEO-scRNA-seq-data-for-seurat-downstream-analysis
 
 This is a practice that allow users to download and organize scRNA seq data from GEO for Seurat downstream analysis. All codes are written in R.
-If pratice is used appropriately, the results are anticipated;
+If pratice is used appropriately, the results below are anticipated;
 
 - GEO data will be downloaded based on user given GEO number
 - Notably, the downloaded file is compressed and wound be untar 
